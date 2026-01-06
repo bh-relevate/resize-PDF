@@ -1,0 +1,3 @@
+([('PDF Margin Tool',
+   '/Users/buddyharris/Desktop/rh-sandbox/resize-PDF/dist/PDF Margin Tool',
+   'EXECUTABLE')],)
